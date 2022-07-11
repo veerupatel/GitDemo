@@ -1,0 +1,8 @@
+------ GRN Report 
+------ On Click GRN Print button
+
+1. GRR date format should be dd-mm-yyyy.
+2. PO no. showing in footer should be visible in same order as showing in report.
+3. After modified GRN's Challan & recv qty then saved record but in report challan and recvd quantity not updated.
+
+ 
