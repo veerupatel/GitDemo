@@ -5,4 +5,8 @@
 2. PO no. showing in footer should be visible in same order as showing in report.
 3. After modified GRN's Challan & recv qty then saved record but in report challan and recvd quantity not updated.
 
- 
+ ----- Bill Passing entry
+
+1. After bill passed then in bill passed report record not showing.
+2. After reverse bill entry from desktop then in pending for bill passing record not showing.
+3. 
